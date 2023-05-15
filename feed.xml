@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://blog.dungenrobot.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.dungenrobot.com/" rel="alternate" type="text/html" /><updated>2023-05-13T15:38:15-04:00</updated><id>https://blog.dungenrobot.com/feed.xml</id><title type="html">The Blog of DungenRobot</title><subtitle>Welcome!  I plan to post blogs and updates here as time goes on. Stay tuned for more!</subtitle><entry><title type="html">Jam Entries</title><link href="https://blog.dungenrobot.com/jam/01" rel="alternate" type="text/html" title="Jam Entries" /><published>2023-05-13T00:00:00-04:00</published><updated>2023-05-13T00:00:00-04:00</updated><id>https://blog.dungenrobot.com/jam/the-jam</id><content type="html" xml:base="https://blog.dungenrobot.com/jam/01"><![CDATA[<h2 id="the-jam">The Jam</h2>
-<p>About a month ago I hosted a jam for myself and some friends of mine. Anyone could suggest and subsequently vote on a theme. A single theme would be selected and everyone then had ten days to make something around it.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://blog.dungenrobot.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.dungenrobot.com/" rel="alternate" type="text/html" /><updated>2023-05-14T22:01:36-04:00</updated><id>https://blog.dungenrobot.com/feed.xml</id><title type="html">Dungen’s Blog</title><subtitle>Welcome to my blog! I post here *very* occasionally about stuff I&apos;m working on or just curious about.</subtitle><entry><title type="html">Jam Entries</title><link href="https://blog.dungenrobot.com/jam/01" rel="alternate" type="text/html" title="Jam Entries" /><published>2023-05-13T00:00:00-04:00</published><updated>2023-05-13T00:00:00-04:00</updated><id>https://blog.dungenrobot.com/jam/the-jam</id><content type="html" xml:base="https://blog.dungenrobot.com/jam/01"><![CDATA[<p>About a month ago I hosted a jam for myself and some friends of mine. Anyone could suggest and vote on the theme. Once a theme was selected, everyone would have ten days to submit <em>something</em> based around it.</p>
 
-<p>This Jam’s theme was “<strong>Sun and Moon</strong>”</p>
-
-<h2 id="the-entries">The Entries:</h2>
+<p>The Jam’s theme was “<strong>Sun and Moon</strong>”</p>
 
 <p>The entries are in order of submission. Those who submitted earlier appear close to the top.</p>
 
-<h1 id="sightless-stars">“Sightless Stars”</h1>
+<h2 id="sightless-stars">“Sightless Stars”</h2>
 
 <p>What of the tale of twin lovers,<br />
 Who dance through the ages unknown?<br />
@@ -24,7 +21,7 @@ Despite what sightless stars may say.</p>
 
 <p>- The Altruist</p>
 
-<h1 id="cyber-city">“Cyber City”</h1>
+<h2 id="cyber-city">“Cyber City”</h2>
 
 <p>A futuristic city that is controlled by day and chaotic by night.</p>
 
@@ -32,13 +29,13 @@ Despite what sightless stars may say.</p>
 
 <p>- Matt G</p>
 
-<h1 id="sun-and-moon-in-the-sky">“Sun and Moon in the Sky”</h1>
+<h2 id="sun-and-moon-in-the-sky">“Sun and Moon in the Sky”</h2>
 
-<p><img src="/assets/jam/1/Jam_Sun_And_Moon.png" alt="Sun And Moon" /></p>
+<p><img src="/assets/jam/1/jam_Sun_And_Moon.png" alt="Sun And Moon" /></p>
 
 <p>- @Teagodess224</p>
 
-<h1 id="opposite-sides">“Opposite sides”</h1>
+<h2 id="opposite-sides">“Opposite sides”</h2>
 
 <p>Just a pixel art drawing you can look at two ways- But it’s sideways and I can’t figure out how to fix it :,)</p>
 
@@ -46,15 +43,15 @@ Despite what sightless stars may say.</p>
 
 <p>- Lira</p>
 
-<h1 id="brightest-midnight">“Brightest Midnight”</h1>
+<h2 id="brightest-midnight">“Brightest Midnight”</h2>
 
 <p>Hand embroidery of an original sun-and-moon pattern :)</p>
 
-<p><img src="/assets/Jam/1/Embroidery.jpg" alt="Embroidered" /></p>
+<p><img src="/assets/jam/1/Embroidery.jpg" alt="Embroidered" /></p>
 
 <p>- A. Morrissey</p>
 
-<h1 id="aperture">“Aperture”</h1>
+<h2 id="aperture">“Aperture”</h2>
 
 <p>A simple drawing I made based on the relevant prompt that was given to me, and as you’d be able to fairly easily tell from the drawing, I was quite literal with my approach.</p>
 
@@ -62,21 +59,42 @@ Despite what sightless stars may say.</p>
 
 <p>- Jack S.</p>
 
-<h1 id="untitled">Untitled</h1>
+<h2 id="untitled">Untitled</h2>
 
 <p><img src="/assets/jam/1/SunSpots.PNG" alt="Sun Spots Image" /></p>
 
 <p>- anonymous</p>
 
-<h1 id="luna">Luna</h1>
+<h2 id="luna">Luna</h2>
 
 <p>A little walking sim around a tiny world. (Yes I did submit last to my own jam)</p>
 
-<iframe src="https://itch.io/embed/1892070" width="552" height="167" frameborder="0"><a href="https://dungenrobot.itch.io/luna">Luna by DungenRobot</a></iframe>
+<iframe src="https://itch.io/embed/1892070?bg_color=000000&amp;fg_color=ccdbda&amp;link_color=eee335&amp;border_color=333333" width="208" height="167" frameborder="0"><a href="https://dungenrobot.itch.io/luna">Luna by DungenRobot</a></iframe>
 
 <p>- DungenRobot</p>
 
-<h2 id="voting">Voting</h2>
+<h1 id="voting">Voting</h1>
 
 <p>Those were all the entries for our first jam! If you’d like to vote for categories, <a href="https://forms.gle/3mvjXbpLwpH6pomq8">fill out the voting form</a>.<br />
-Please note that some individuals may not wish to be included in the voting process. If you are improperly listed here or in the voting form, please reach out to me privately.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[The Jam About a month ago I hosted a jam for myself and some friends of mine. Anyone could suggest and subsequently vote on a theme. A single theme would be selected and everyone then had ten days to make something around it.]]></summary></entry></feed>
+Please note that some individuals may not wish to be included in the voting process. If you are improperly listed here or in the voting form, please reach out to me privately.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[About a month ago I hosted a jam for myself and some friends of mine. Anyone could suggest and vote on the theme. Once a theme was selected, everyone would have ten days to submit something based around it.]]></summary></entry><entry><title type="html">Md Testing</title><link href="https://blog.dungenrobot.com/fuckaround/findout" rel="alternate" type="text/html" title="Md Testing" /><published>2023-01-01T00:00:00-05:00</published><updated>2023-01-01T00:00:00-05:00</updated><id>https://blog.dungenrobot.com/fuckaround/md-testing</id><content type="html" xml:base="https://blog.dungenrobot.com/fuckaround/findout"><![CDATA[<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;script&gt;</span> <span class="k">this</span> <span class="nx">is</span> <span class="nx">code</span> <span class="nt">&lt;/script&gt;</span>
+</code></pre></div></div>
+
+<p class="notice--warning"><strong>Note:</strong> This is a notice test<sup id="fnref:note" role="doc-noteref"><a href="#fn:note" class="footnote" rel="footnote">1</a></sup></p>
+
+<!-- 
+image alignment
+https://mmistakes.github.io/minimal-mistakes/markup/markup-image-alignment/
+https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_posts/2013-01-10-markup-image-alignment.md
+
+notice docs
+https://mmistakes.github.io/minimal-mistakes/post%20formats/post-notice/
+https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_posts/2010-02-05-post-notice.md 
+-->
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:note" role="doc-endnote">
+      <p>This is an annotation test <a href="#fnref:note" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[&lt;script&gt; this is code &lt;/script&gt;]]></summary></entry></feed>
