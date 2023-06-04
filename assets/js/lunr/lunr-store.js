@@ -5,15 +5,15 @@ var store = [{
         "url": "/jam/01",
         "teaser": null
       },{
-        "title": "I like your thinking",
-        "excerpt":"You’re almost looking in the right place    Try again   ","categories": [],
-        "tags": [],
-        "url": "/HIDDEN/",
-        "teaser": null
-      },{
         "title": "Category Winners!",
         "excerpt":"Howdy ya’ll! I’m back to reveal the winners of our three categories! Excellent Aestetics Our first winner is... Sun and Moon in the Sky by @Teagodess224 \"Sun and moon and stars take over the skies\" - @Teagodess224 Most Impressive The entry that just blew me away with the amount of...","categories": [],
         "tags": [],
-        "url": "/sWRUGBiM15CoHmBU6/categories-revealed",
+        "url": "/2023/05/17/categories-revealed.html",
+        "teaser": null
+      },{
+        "title": "The Jam (2)! (theme suggestions)",
+        "excerpt":"Welcome to the second jam! I wanted to wait until most people had free time to start things up again. I hope you’ve all been well and you’re ready to get your creative juices flowing for… The Jam (The Second One) The Part of it Where You Suggest Themes Click...","categories": [],
+        "tags": [],
+        "url": "/2023/06/03/the-jam-2.html",
         "teaser": null
       }]
