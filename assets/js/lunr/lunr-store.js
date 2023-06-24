@@ -16,4 +16,10 @@ var store = [{
         "tags": [],
         "url": "/2023/06/03/the-jam-2.html",
         "teaser": null
+      },{
+        "title": "The Jam 2 Theme Voting",
+        "excerpt":"Howdy ya’ll, I have two big announcements to share! First: Theme voting for The Jam 2 is out now! But before that… I now have a discord server Theme announcements and minor updates will be moving there, this should free up my blog to be more strictly about my game...","categories": [],
+        "tags": [],
+        "url": "/2023/06/24/the-jam-2-theme-voting.html",
+        "teaser": null
       }]
